@@ -2,7 +2,7 @@
 from math import factorial
 
 # input n
-n = 20
+n = input()
 for i in range(n):
 	for j in range(n-i+1):
 
